@@ -67,4 +67,4 @@ Thank You for your order!
 
 ## Author
 
-Online Food Order System - C++ Console Application by Cosmeratech
+Online Food Order System - C++ Console Application by cosmeratech
