@@ -10,18 +10,6 @@ A simple command-line based food ordering system written in C++ that allows user
 - Real-time bill calculation
 - Option to add multiple items to order
 
-## Menu Items
-
-### Chinese Food
-- Noodles - Rs. 250
-- Chow Mein - Rs. 210
-- Fried Rice - Rs. 199
-
-### Italian Food
-- Arugula Pizza - Rs. 300
-- Pasta Carbonara - Rs. 310
-- Mushroom Risotto - Rs. 299
-
 ## How to Use
 
 1. Press `o` or `O` to start your order
