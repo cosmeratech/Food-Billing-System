@@ -35,7 +35,7 @@ A simple command-line based food ordering system written in C++ that allows user
 ## Compilation & Execution
 ```bash
 # Compile
-g++ main.cpp -o food_order
+g++ BillingSystem.cpp -o food_order
 
 # Run
 ./food_order
